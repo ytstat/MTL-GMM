@@ -1,7 +1,7 @@
 Reproducibility Guidance
 ================
 
-This GitHub repository contains the code and the guidance to reproduce the numerical results in the paper "# Robust Unsupervised Multi-task and Transfer Learning on Gaussian Mixture Models" by Ye Tian, Haolei Weng, Lucy Xia, and Yang Feng.
+This GitHub repository contains the code and the guidance to reproduce the numerical results in the paper "Robust Unsupervised Multi-task and Transfer Learning on Gaussian Mixture Models" by Ye Tian, Haolei Weng, Lucy Xia, and Yang Feng.
 
 ## Description of the code
 The code for simulations and real data studies are stored in two separate folders. There is another folder storing the code for producing the empirical plots in the paper, where we mention the related figure number for each produced plot in the code files. Each R file can be run by the `.sh` file with job ID input 1-200 as random seeds.
